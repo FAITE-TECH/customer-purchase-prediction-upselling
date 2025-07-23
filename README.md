@@ -11,11 +11,11 @@ model/
 data/
 - Assignment-1_Data.csv # Sample demo dataset (Replace it with actual dataset)
 
-- train_model.ipynb # Jupyter Notebook used for training & testing
-- train_lightfm.py # Python script to retrain model from scratch
-- recommended.py # Script to generate recommendations
-- requirements.txt # Required Python packages
-- README.md # Project overview & usage instructions
+train_model.ipynb # Jupyter Notebook used for training & testing
+train_lightfm.py # Python script to retrain model from scratch
+recommended.py # Script to generate recommendations
+requirements.txt # Required Python packages
+README.md # Project overview & usage instructions
 
 ## What It Does
 - Analyzes historical customer purchase transactions.
