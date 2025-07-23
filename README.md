@@ -9,7 +9,7 @@ model/
 - item_map.pkl # Mapping: Itemname → Internal item index
 
 data/
-  Assignment-1_Data.csv # Sample demo dataset (Replace it with actual dataset)
+- Assignment-1_Data.csv # Sample demo dataset (Replace it with actual dataset)
 
 train_model.ipynb # Jupyter Notebook used for training & testing
 train_lightfm.py # Python script to retrain model from scratch
