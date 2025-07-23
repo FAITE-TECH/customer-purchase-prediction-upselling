@@ -4,9 +4,9 @@ This project implements a filtering-based product recommender system using the [
 
 ## Project files
 model/
-  lightfm_model.pkl # Trained LightFM model
-  user_map.pkl # Mapping: CustomerID → Internal user index
-  item_map.pkl # Mapping: Itemname → Internal item index
+- lightfm_model.pkl # Trained LightFM model
+- user_map.pkl # Mapping: CustomerID → Internal user index
+- item_map.pkl # Mapping: Itemname → Internal item index
 
 data/
   Assignment-1_Data.csv # Sample demo dataset (Replace it with actual dataset)
