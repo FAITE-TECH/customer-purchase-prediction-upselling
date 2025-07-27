@@ -10,6 +10,7 @@ model/
 
 data/
 - Assignment-1_Data.csv # Sample demo dataset (Replace it with actual dataset)
+- Sample dataset used for model training is (https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis)
 
 Other files
 - train_model.ipynb # Jupyter Notebook used for training & testing
