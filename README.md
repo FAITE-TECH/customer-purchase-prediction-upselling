@@ -60,7 +60,7 @@ This will:
 ## Making Recommendations
 Run the recommended.py script to generate recommendations for a given CustomerID:
 ```bash
-python recommended.py --user_id 13047 --top_k 5
+python recommend.py --user_id 13047 --top_k 5
 ```
 Parameters:
 --user_id: The customer ID to recommend products for.
